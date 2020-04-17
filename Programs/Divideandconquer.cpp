@@ -67,4 +67,4 @@ void mergefiles(int *arr, int low, int high, int mid)
  cout<<files[i]<<"\t";
     }
    return 0;
-}
+} 
