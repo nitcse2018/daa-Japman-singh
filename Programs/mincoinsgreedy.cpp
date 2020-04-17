@@ -19,5 +19,5 @@ int main() {
   cout<<"Enter the amount of money:";
   cin >> m;
   cout<<"The minimum number of coins required are: ";
-  cout << get_change(m) << '\n';
+  cout << get_change(m) << '\n'; 
 }
