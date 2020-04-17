@@ -30,5 +30,5 @@ int main() {
    int n = 4, value;
    cout << "Enter Value: "; cin >> value;
    cout << "Minimum "<<minCoins(coins, n, value)<<" coins required.";
-   return 0;
+   return 0; 
 }
