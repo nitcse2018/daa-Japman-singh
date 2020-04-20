@@ -8,4 +8,4 @@ This repository contains the programs in accordance to the assignment given.The 
     4. Branch and bound 
     5. Dynammic programming.
 This repository also contains a power point presentation showcasing the information about variou topics included in the assignment.
- 
+This repository also contains the java GUI assignment in the AWT_ASSIGNMENT folder.
