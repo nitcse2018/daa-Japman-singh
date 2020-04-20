@@ -1,0 +1,46 @@
+							RESUME
+
+Name:	Japman Singh Monga
+Contact No.:	8358953599
+Address:	Nit Delhi
+Email-ID	181210024@nitdelhi.ac.in
+
+	OBJECTIVE
+Creating a gui which develops a resume builder application and generates your resume
+
+	EDUCATIONAL QUALIFICATIONS
+• Secondary School:	Campion School
+  Passing Year:	2016
+  Percentage/CGPA:	10
+• Senior Secondary School:	Campion School
+  Passing Year:	2018
+  Percentage/CGPA:	90.6
+• College:	NIT Delhi
+  Passing Year:	2022
+  Percentage/CGPA:	7
+
+	SKILLS
+•Java
+•c
+•C++
+•Python
+
+	PROJECTS AND WORK EXPERIENCE
+• Resume builder
+  Creating a gui which develops a resume builder application and generates your resume
+• Resume builder
+  Creating a gui which develops a resume builder application and generates your resume
+• Resume builder
+  Creating a gui which develops a resume builder application and generates your resume
+
+	ACHIEVEMENTS
+•Null
+•Null
+•Null
+•Null
+	CO-CURRICULAR ACTIVITIES
+•Volleyball
+•Volleyball
+•Volleyball
+•Volleyball
+
